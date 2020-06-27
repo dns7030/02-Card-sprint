@@ -1,6 +1,6 @@
 /*card-category*/
 .card-category {
-  background-size: cover;
+  background-size: 100%;
   background-position: center;
   height: 180px;
   display: flex;
